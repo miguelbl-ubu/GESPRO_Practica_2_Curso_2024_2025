@@ -22,4 +22,12 @@ Tasks:
 
 2- Tareas de 1er Release en el Sprint Backlog.
 
+![image](https://github.com/user-attachments/assets/ecd9d1fa-6de3-419f-b431-93f63551c0bc)
+
+
+- Tareas de 1er Release en progreso en diferentes columnas:
+
+![image](https://github.com/user-attachments/assets/8e865e5f-d172-4a6c-a9fc-26930c2fea78)
+
+
 
