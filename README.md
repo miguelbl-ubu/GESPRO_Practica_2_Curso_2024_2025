@@ -9,3 +9,7 @@ David Rey y David Santaolalla.
 1-Filtro por Epics, US y Tasks en la columna de New Issues
 Epic:
 ![image](https://github.com/user-attachments/assets/5c6e546f-5801-41de-a905-1c0fa23f34d8)
+![image](https://github.com/user-attachments/assets/3d1eb64c-6682-4ac2-928f-f6c162b0e759)
+![image](https://github.com/user-attachments/assets/c44ae25e-30fc-4f28-832c-b8d698948545)
+
+
