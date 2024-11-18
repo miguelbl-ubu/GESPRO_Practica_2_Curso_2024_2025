@@ -31,4 +31,9 @@ Tasks:
 
 ![image](https://github.com/user-attachments/assets/8e865e5f-d172-4a6c-a9fc-26930c2fea78)
 
+- Cierre de 1er Release:
+
+![image](https://github.com/user-attachments/assets/e410cf45-0679-4153-b746-723297c288df)
+
+
 
