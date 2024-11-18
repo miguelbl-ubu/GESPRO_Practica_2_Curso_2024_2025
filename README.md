@@ -35,5 +35,16 @@ Tasks:
 
 ![image](https://github.com/user-attachments/assets/e410cf45-0679-4153-b746-723297c288df)
 
+-Comienzo de la 2da Release:
+
+![image](https://github.com/user-attachments/assets/cc9b5efd-b90f-48c7-be7a-2169d2747058)
+
+-Tareas de la 2da Release en progreso y filtradas por algún topic:
+(Topic setup)
+
+![image](https://github.com/user-attachments/assets/bd8fcb76-c773-4e7e-80af-d089f446d36f)
+
+
+
 
 
