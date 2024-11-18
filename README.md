@@ -10,7 +10,7 @@ David Rey y David Santaolalla.
 
   1. Acceder al repositorio
 
-     En primer lugar, el usuario debe visitar el repositorio en GitHub, y debe familiarizarse       con las siguientes secciones:
+     En primer lugar, el usuario debe visitar el repositorio en GitHub, y debe familiarizarse con las siguientes secciones:
 
         Code: Incluye el código fuente del proyecto.
         Issues: Contiene las tareas, problemas reportados y sugerencias.
@@ -19,14 +19,14 @@ David Rey y David Santaolalla.
       
   2. Comprender la estructura del proyecto
 
-     El usuario debe comprender la estructura del proyecto, para ello debe leer el archivo          README.md para conocer los objetivos del proyecto y su desarrollo.
+     El usuario debe comprender la estructura del proyecto, para ello debe leer el archivo README.md para conocer los objetivos del proyecto y su desarrollo.
      Además debe entender cómo se organiza el trabajo:
 
         Epics: Objetivos principales que agrupan tareas relacionadas.
         User Stories: Funcionalidades específicas derivadas de los Epics.
         Tareas (Issues): Acciones concretas necesarias para desarrollar las User Stories.
      
-     Por último, el usuario debe ser capaz de usar las etiquetas para identificar información       clave:
+     Por último, el usuario debe ser capaz de usar las etiquetas para identificar información clave:
      
         Prioridad: priority: high o priority: low.
         Tipo: type: task, type: bug o type: enhancement.
@@ -34,7 +34,8 @@ David Rey y David Santaolalla.
      
   3. Navegar por el tablero de Zenhub
 
-     El usuario debe conocer como navegar por el tablero de Zenhub, para ello, debe tener           como es lógico la extensión Zenhub instalada y acceder al tablero desde el botón Zenhub        en la parte superior del repositorio.
+     El usuario debe conocer como navegar por el tablero de Zenhub, para ello, debe tener como es lógico la extensión Zenhub instalada y acceder al tablero desde el botón Zenhub en la parte superior del 
+     repositorio.
 
      El usuario también debe familiarizarse con las columnas que reflejan el flujo de       
      trabajo:
@@ -49,7 +50,7 @@ David Rey y David Santaolalla.
 
      a. Reportar un problema o sugerencia
      
-           Para reportar un problema o sugerencia, el usuario debe dirigirse a la sección                 Issues y seleccionar New Issue, a partir de aqui debe de completar el formulario               donde se le pide:
+           Para reportar un problema o sugerencia, el usuario debe dirigirse a la sección Issues y seleccionar New Issue, a partir de aqui debe de completar el formulario donde se le pide:
 
               Título: Una breve descripción de la sugerencia o problema.
               Cuerpo: Explica los detalles del problema o la mejora propuesta.
@@ -57,7 +58,8 @@ David Rey y David Santaolalla.
 
       b. Contribuir con cambios al código
      
-           El usuario puede contribuir también con cambios al código haciendo un fork del                 repositorio para trabajar con su copia personal del mismo. A partir de aqui, el                usuario deberá crear una nueva rama para realizar sus cambios, donde incluirá sus              modificaciones necesarias, las guardará y las subirá a su fork. Por ultimo abrirá              un Pull Request desde su fork y explicará brevemente el motivo de sus cambios.
+           El usuario puede contribuir también con cambios al código haciendo un fork del repositorio para trabajar con su copia personal del mismo. A partir de aqui, el usuario deberá crear una nueva rama para 
+           realizar sus cambios, donde incluirá sus modificaciones necesarias, las guardará y las subirá a su fork. Por ultimo abrirá un Pull Request desde su fork y explicará brevemente el motivo de sus cambios.
      
    5. Dar seguimiento a las contribuciones
 
@@ -65,11 +67,11 @@ David Rey y David Santaolalla.
 
    6. Solicitar ayuda o aclarar dudas
 
-         En el caso de que el usuario necesite soporte, podrá utilizar la sección Discussions           siempre y cuando este habilitada.  
+         En el caso de que el usuario necesite soporte, podrá utilizar la sección Discussions siempre y cuando este habilitada.  
 
    7. Revisar el progreso del proyecto
 
-      Para revisar el progreso del proyecto, el usuario debe utilizar ZenHub y así filtrar las       tareas por etiquetas. También puede examinar las columnas de ZenHub para identificar el        estado de las tareas.
+      Para revisar el progreso del proyecto, el usuario debe utilizar ZenHub y así filtrar las tareas por etiquetas. También puede examinar las columnas de ZenHub para identificar el estado de las tareas.
 
 2-Filtro por Epics, US y Tasks en la columna de New Issues
 Epic:
