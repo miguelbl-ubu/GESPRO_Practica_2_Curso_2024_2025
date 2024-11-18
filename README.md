@@ -109,6 +109,12 @@ Tasks:
 
 ![image](https://github.com/user-attachments/assets/bd8fcb76-c773-4e7e-80af-d089f446d36f)
 
+8- Imagen de conversación en dos tareas:
+
+![image](https://github.com/user-attachments/assets/b0c6e979-83af-4a09-be34-46e26a070a1b)
+
+
+
 
 
 
