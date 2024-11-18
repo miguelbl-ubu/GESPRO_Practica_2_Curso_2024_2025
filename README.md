@@ -24,6 +24,9 @@ Tasks:
 
 ![image](https://github.com/user-attachments/assets/ecd9d1fa-6de3-419f-b431-93f63551c0bc)
 
+![image](https://github.com/user-attachments/assets/5827f427-d439-4b4b-8654-f42b7b44c50c)
+
+
 
 - Tareas de 1er Release en progreso en diferentes columnas:
 
